@@ -1,4 +1,7 @@
 # Technocolab-Final-Project
+
+![Technocolab-Final-Project](https://socialify.git.ci/kaustubhgupta/Technocolab-Final-Project/image?language=1&theme=Light&stargazers=1&description=1&pulls=1&issues=1&forks=1&owner=1)
+
 ![](https://github.com/kaustubhgupta/Technocolab-Final-Project/blob/master/preview.PNG)
 
 This is the final project made during my internship in [Technocolabs](https://www.linkedin.com/company/technocolabs/). In this project, we were given a two files, a CSV file containing data about music track title, composer, label and many other features including track genre. The JSON file consist of techincal details about a sound track including valence and dacebility.
